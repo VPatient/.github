@@ -1,2 +1,2 @@
-# Virtual Patient
-Brief description of the project will be included in a short time.
+# [Virtual Patient](https://vpatient.github.io)
+Click the link above and go to the website of the project.
